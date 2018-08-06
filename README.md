@@ -1,4 +1,4 @@
-## WePY
+## WePY(腾讯)[https://github.com/Tencent]
 
 [![npm version](https://badge.fury.io/js/wepy.svg)](https://badge.fury.io/js/wepy)
 [![travis-ci](https://travis-ci.org/Tencent/wepy.svg?branch=1.7.x)](https://travis-ci.org/Tencent/wepy)
